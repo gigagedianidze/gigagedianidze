@@ -1,4 +1,20 @@
-<p align="center">
+
+<h3 align="left">Welcome to my profile</h3>
+👋 Hello, I'm Giga Gedianidze!
+
+🔧 With a strong Engineering background and decades of experience, I've honed my problem-solving skills in the real world.
+
+💻 Today, my heart belongs to coding, where I channel my engineering expertise into crafting elegant solutions.
+
+🚀 I'm driven by a relentless passion to explore, innovate, and contribute to the ever-evolving tech landscape.
+
+🛠️ You can check out my coding journey and projects here on GitHub
+
+📫 Let's connect! Feel free to reach out to me on GitHub or via email at gigagedianidze@gmail.com
+
+
+ Current Skillset: 
+<p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/dot-net-original-wordmark.svg" alt="Dot Net" width="40" height="40"/>
@@ -14,9 +30,9 @@
 
 
 
-<div align="center">
+<div align="left">
 <a href="https://github.com/gigagedianidze">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gigagedianidze&theme=algolia" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gigagedianidze&theme=algolia" height="180em" />
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gigagedianidze&label=Profile%20views&color=0e75b6&style=flat" alt="gigagedianidze" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gigagedianidze&label=Profile%20views&color=0e75b6&style=flat" alt="gigagedianidze" />
