@@ -12,7 +12,9 @@
 📫 Let's connect! Feel free to reach out to me on GitHub or via email at gigagedianidze@gmail.com
 
 
- Current Skillset: 
+<p>:octocat::octocat::octocat::octocat:</p>
+
+ Current Skill set: 
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -32,13 +34,4 @@
 <div align="left">
 <a href="https://github.com/gigagedianidze">
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gigagedianidze&theme=algolia" height="180em" />
-</div><br>
-<br>
-<br>
- <br>
- <br>
- <br>
- <br>
- <br>
-<p>:octocat::octocat::octocat::octocat:</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gigagedianidze&label=Profile%20views&color=0e75b6&style=flat" alt="gigagedianidze" /p>
+</div>
