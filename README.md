@@ -1,5 +1,4 @@
 
-<h3 align="left">Welcome to my profile</h3>
 👋 Hello, I'm Giga Gedianidze!
 
 🔧 With a strong Engineering background and decades of experience, I've honed my problem-solving skills in the real world.
@@ -33,6 +32,13 @@
 <div align="left">
 <a href="https://github.com/gigagedianidze">
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gigagedianidze&theme=algolia" height="180em" />
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gigagedianidze&label=Profile%20views&color=0e75b6&style=flat" alt="gigagedianidze" />
+</div><br>
+<br>
+<br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+<p>:octocat::octocat::octocat::octocat:</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gigagedianidze&label=Profile%20views&color=0e75b6&style=flat" alt="gigagedianidze" /p>
