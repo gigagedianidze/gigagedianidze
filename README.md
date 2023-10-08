@@ -3,7 +3,7 @@
 
 🔧 With a strong Engineering background and decades of experience, I've honed my problem-solving skills in the real world.
 
-💻 Today, my heart belongs to coding, where I channel my engineering expertise into crafting elegant solutions.
+💻 Today, my heart belongs to coding, where I channel my engineering expertise into crafting refined solutions.
 
 🚀 I'm driven by a relentless passion to explore, innovate, and contribute to the ever-evolving tech landscape.
 
