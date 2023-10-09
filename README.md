@@ -1,4 +1,3 @@
-
 👋 Hello, I'm Giga Gedianidze!
 
 🔧 With a strong Engineering background and decades of experience, I've honed my problem-solving skills in the real world.
@@ -12,7 +11,7 @@
 📫 Let's connect! Feel free to reach out to me on GitHub or via email at gigagedianidze@gmail.com
 
 
-<p>:octocat::octocat::octocat::octocat::octocat:</p>
+<p>:octocat::octocat::octocat::octocat::octocat::octocat:</p>
 
  Current Skill set: 
 <p align="left">
