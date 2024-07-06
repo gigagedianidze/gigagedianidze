@@ -1,12 +1,6 @@
 👋 Hello, I'm Giga Gedianidze!
 
-🔧 With a strong Engineering background and decades of experience, I've honed my problem-solving skills in the real world.
-
-💻 Today, my heart belongs to coding, where I channel my engineering expertise into crafting refined solutions.
-
-🚀 I'm driven by a relentless passion to explore, innovate, and contribute to the ever-evolving tech landscape.
-
-🛠️ You can check out my coding journey and projects here on GitHub
+🔧 With a strong Engineering background and decades of experience, Today, my heart belongs to coding.
 
 📫 Let's connect! Feel free to reach out to me on GitHub or via email at gigagedianidze@gmail.com
 
