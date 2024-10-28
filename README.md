@@ -5,7 +5,7 @@
 📫 Let's connect! Feel free to reach out to me on GitHub or via email at gigagedianidze@gmail.com
 
 
-<p>:octocat::octocat::octocat::octocat::octocat:</p>
+<p>:octocat::octocat::octocat::octocat::octocat::octocat:</p>
 
 
 
