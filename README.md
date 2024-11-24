@@ -8,12 +8,6 @@
 <p>:octocat::octocat::octocat::octocat::octocat::octocat:</p>
 
 
-
-<div align="left">
-<a href="https://github.com/gigagedianidze">
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gigagedianidze&theme=algolia" height="180em" />
-</div>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gigagedianidze&theme=blueberry)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gigagedianidze&theme=blueberry)
