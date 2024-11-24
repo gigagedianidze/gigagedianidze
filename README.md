@@ -14,5 +14,5 @@
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gigagedianidze&theme=algolia" height="180em" />
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gigagedianidze&theme=dark)
+
 
