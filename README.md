@@ -11,4 +11,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gigagedianidze&theme=zenburn)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gigagedianidze&theme=zenburn) 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gigagedianidze&theme=zenburn)
+
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gigagedianidze&theme=zenburn)
