@@ -1,6 +1,6 @@
 👋 Hello, I'm Giga Gedianidze!
 
-🔧 With a strong Engineering background and decades of experience, Today, my heart belongs to coding.
+
 
 📫 Let's connect! Feel free to reach out to me on GitHub or via email at gigagedianidze@gmail.com
 
