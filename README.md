@@ -1,8 +1,8 @@
 👋 Hello, I'm Giga Gedianidze!
 
 
-
 📫 Let's connect! Feel free to reach out to me on GitHub or via email at gigagedianidze@gmail.com
+
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gigagedianidze&theme=zenburn)
